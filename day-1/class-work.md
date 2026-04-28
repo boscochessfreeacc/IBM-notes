@@ -1,0 +1,3 @@
+# Explain today's session in 80 words
+
+Artificial intelligence refers to systems that learn from data to perform tasks such as prediction, generation, and decision-making. It spans domains like healthcare, programming, and automation. AI types include ANI, AGI, and ASI, and task-based categories like predictive, generative, and agentic AI. Prompting methods include zero-shot, one-shot, few-shot, and role-based approaches. Data—structured, unstructured, semi-structured, and metadata—drives AI. The evolution of data processing highlights AI’s growing capabilities and its expanding role in future technologies.
