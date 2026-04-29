@@ -1,53 +1,59 @@
+
+# LINKS
+
+- [[#DAY-0]]
+	- [[#1. What is AI?]]
+	- [[#2. Why should you learn about AI?]]
+	- [[#3. Why is AI dominating every domain?]]
+	- [[#4. What are the types of AI?]]
+	- [[#5. Use of AI in your domain (software development)]]
+- [[#DAY-1]]
+	- [[#6. Will AI replace human jobs?]]
+- [[#Day-2]]
+	- [[#7. Explain the use of 2 AI tools for your domain.]]
+	- [[#8. Explain iterative prompting.]]
+	- [[#9. What if you are learning AI, how will it help you.]]
+
 # DAY-0
 
 ## 1. What is AI?
 
-Artificial Intelligence (AI) is the engineering of computational systems that implement functions mapping inputs to outputs in a manner that approximates or exceeds human performance on tasks requiring perception, pattern recognition, inference, or decision-making. These systems are typically realized through parameterized models trained on data, or through explicitly encoded rules, or a hybrid of both.
+*Artificial Intelligence (AI) is the engineering of computational systems that implement functions mapping inputs to outputs in a manner that approximates or exceeds human performance on tasks requiring perception, pattern recognition, inference, or decision-making. These systems are typically realized through parameterized models trained on data, or through explicitly encoded rules, or a hybrid of both.*
 
 ---
 
 ## 2. Why should you learn about AI?
 
-AI literacy provides operational leverage in any domain where data exists. Specifically:
+**AI literacy provides operational leverage in any domain where data exists. Specifically:**
 
 - It enables construction of systems that automate non-trivial decision processes.
-    
 - It allows informed evaluation of model outputs, including error modes and bias.
-    
 - It is increasingly a prerequisite for building scalable software systems where static logic is insufficient.
-    
 - It confers the ability to integrate probabilistic reasoning into deterministic pipelines.
-    
 
 ---
 
 ## 3. Why is AI dominating every domain?
 
-AI adoption is a consequence of three converging factors:
+*AI adoption is a consequence of three converging factors:*
 
 - **Data availability**: Large-scale datasets enable statistical learning with high fidelity.
-    
 - **Compute scalability**: Hardware acceleration (e.g., GPUs) allows training of high-capacity models.
-    
 - **Model architecture advances**: Techniques such as deep learning and transformer-based models generalize across tasks.
-    
 
-Formally, AI dominates where problem spaces are high-dimensional and rule enumeration is infeasible, making learned approximations more efficient than manual specification.
+*Formally, AI dominates where problem spaces are high-dimensional and rule enumeration is infeasible, making learned approximations more efficient than manual specification.*
 
 ---
 
 ## 4. What are the types of AI?
 
-Two orthogonal classifications are standard:
+**Two orthogonal classifications are standard:**
 
 **By capability scope:**
 
 - **ANI (Artificial Narrow Intelligence)**: Task-specific systems with no generalization beyond trained scope.
-    
 - **AGI (Artificial General Intelligence)**: Hypothetical systems with domain-independent reasoning equivalent to humans.
-    
 - **ASI (Artificial Superintelligence)**: Hypothetical systems exceeding human capability across all domains.
-    
 
 **By functional behavior:**
 
@@ -56,26 +62,20 @@ Two orthogonal classifications are standard:
 - **Generative AI**: Produces new data samples consistent with learned distributions.
     
 - **Agentic AI**: Selects and executes actions over time to optimize an objective within an environment.
-    
 
 ---
 
 ## 5. Use of AI in your domain (software development)
 
-Within software engineering, AI is applied as follows:
+**Within software engineering, AI is applied as follows:**
 
 - **Code synthesis and completion**: Models generate syntactically valid and context-aware code.
-    
 - **Static and dynamic analysis**: Detection of bugs, vulnerabilities, and inefficiencies via learned patterns.
-    
 - **Test generation**: Automated construction of unit and integration tests.
-    
 - **Natural language interfaces**: Converting specifications into executable logic.
-    
 - **Optimization**: Profiling and improving performance based on learned heuristics.
-    
 
-The unifying principle is augmentation of developer productivity via probabilistic automation layered on deterministic systems.
+*The unifying principle is augmentation of developer productivity via probabilistic automation layered on deterministic systems.*
 
 ---
 
@@ -83,19 +83,22 @@ The unifying principle is augmentation of developer productivity via probabilist
 
 ## 6. Will AI replace human jobs?
 
-AI will not uniformly “replace” jobs; it will recompose them. The precise effect is task-level substitution rather than role-level elimination.
+*AI will not uniformly “replace” jobs; it will recompose them. The precise effect is task-level substitution rather than role-level elimination.*
 
 - Tasks that are repetitive, data-driven, and well-defined are susceptible to automation.
-    
 - Tasks requiring contextual judgment, accountability, or novel problem formulation remain human-dominated.
-    
 - New roles emerge around system design, oversight, alignment, and integration of AI systems.
-    
 
-Formally, if a job is modeled as a set of tasks $( J = {t_1, t_2, ..., t_n} )$, AI replaces a subset $( T' \subseteq J )$, not necessarily the entire set. The residual tasks redefine the role rather than eliminate it.
+*Formally, if a job is modeled as a set of tasks $( J = {t_1, t_2, ..., t_n} )$, AI replaces a subset $( T' \subseteq J )$, not necessarily the entire set. The residual tasks redefine the role rather than eliminate it.*
 
 # Day-2
 
 ## 7. Explain the use of 2 AI tools for your domain.
+
+*Tools like GitHub Copilot and TensorFlow serve different but complementary roles in IT. Copilot helps developers write code faster by suggesting functions, fixing patterns, and generating boilerplate directly inside the editor, acting like an intelligent autocomplete. TensorFlow, in contrast, is used to build AI models that can learn from data, such as systems that detect anomalies, classify information, or make predictions. In simple terms, one improves developer productivity, while the other enables building intelligent applications.*
 ## 8. Explain iterative prompting.
-## 9. What if you are learning AI, how will it help you.
+
+*Iterative prompting is the process of refining your instructions to an AI step by step to get better results. You start with a basic prompt, review the output, then improve the prompt by adding clarity, constraints, or examples. Each iteration reduces ambiguity and guides the AI closer to the desired answer. It is similar to debugging, where instead of fixing code, you continuously adjust the input until the output meets your requirements.*
+## 9. How will learning about AI help you?
+
+*Learning AI helps in IT by increasing productivity, enabling smarter system design, and improving decision-making. It allows developers to automate repetitive tasks, analyze large datasets, and build systems that can adapt and learn instead of relying only on fixed logic. It also ensures you stay relevant in a rapidly evolving industry where AI integration is becoming standard, while giving you the ability to understand its limitations and use it effectively.*
