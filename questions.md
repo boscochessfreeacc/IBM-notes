@@ -93,3 +93,9 @@ AI will not uniformly “replace” jobs; it will recompose them. The precise ef
     
 
 Formally, if a job is modeled as a set of tasks $( J = {t_1, t_2, ..., t_n} )$, AI replaces a subset $( T' \subseteq J )$, not necessarily the entire set. The residual tasks redefine the role rather than eliminate it.
+
+# Day-2
+
+## 7. Explain the use of 2 AI tools for your domain.
+## 8. Explain iterative prompting.
+## 9. What if you are learning AI, how will it help you.
